@@ -1,0 +1,13 @@
+# Blocklist everything in directory
+/*
+
+# Except for .gitignore
+!.gitignore
+
+# Except for .zshrc
+
+
+# Except for .config/nvim
+
+
+# Except for .config/tmux
