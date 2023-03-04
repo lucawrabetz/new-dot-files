@@ -5,7 +5,7 @@
 !.gitignore
 
 # Except for .zshrc
-
+!.zshrc
 
 # Except for .config/nvim
 
